@@ -77,7 +77,7 @@ const HomePage = () => {
         <h2 className={styles.heading}>工作经验</h2>
         <div>
           <h3 className={styles.jobTitle}>前端开发工程师</h3>
-          <p className={styles.jobCompany}>某某科技公司 | 2023年6月 - 至今</p>
+          <p className={styles.jobCompany}>悉望数智 | 2023年6月 - 至今</p>
           <ul className={styles.list}>
             <li>
               🔥 **开发全新数据管理平台**: 领导开发基于 React 和 UmiJS 的数据管理平台，集成了 antV
